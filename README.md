@@ -56,7 +56,7 @@ npm run build
 
 ### 📸 Screenshots
 Home Screen
-![image alt](https://i.ibb.co.com/0CbXLbp/Atto-cinematic-8k-cyberpunk-ultra-realistic-superheroic-Ironman-6eeaed6e-6c25-4971-a735-4449f9eb9926.png)
+![image alt](https://github.com/adnan2508/flarelink_task/blob/main/Screenshot%202024-11-16%20234926.png?raw=true)
 
 Adding a Task
 
