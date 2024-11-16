@@ -54,5 +54,5 @@ npm run build
 4. Animations: Animations are applied to task actions (like hover effects and scaling) using Tailwind CSS.
 5. Scalability: The app is designed to handle basic task management needs. For larger-scale use, a backend system might be required.
 
-![image alt](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Ftiger%2F&psig=AOvVaw1oH9xwEfPhcEYplkmnqNbI&ust=1731866763850000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCS8My44YkDFQAAAAAdAAAAABAE)
+![image alt](https://i.ibb.co.com/0CbXLbp/Atto-cinematic-8k-cyberpunk-ultra-realistic-superheroic-Ironman-6eeaed6e-6c25-4971-a735-4449f9eb9926.png)
 
