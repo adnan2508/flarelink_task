@@ -27,9 +27,31 @@ The **Task Manager** is a React-based web application designed to help users man
    git clone https://github.com/your-repository-url/task-manager.git
    cd task-manager
    ```
-2. **Install Dependencies: **
+2. Install Dependencies: 
   ```bash
   npm install
   npm start
   ```
+### This command will launch the application on http://localhost:3000/.
+3. Build for Production (Optional):
+```bash 
+npm run build
+```
+### This creates a production-ready build in the build directory.
+
+### 🛠️ Assumptions Made During Development
+1. Priority System: The priority levels are limited to High, Medium, and Low. These are sorted as High → Medium → Low.
+2. Task Data: Tasks have the following structure:
+```bash 
+{
+  "id": 123456789,
+  "title": "Sample Task",
+  "completed": false,
+  "priority": "Medium"
+}
+```
+3. Persistence: Local storage is used to persist tasks, and there’s no backend integration.
+4. Animations: Animations are applied to task actions (like hover effects and scaling) using Tailwind CSS.
+5. Scalability: The app is designed to handle basic task management needs. For larger-scale use, a backend system might be required.
+
 
