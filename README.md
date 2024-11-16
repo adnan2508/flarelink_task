@@ -32,7 +32,7 @@ The **Task Manager** is a React-based web application designed to help users man
   npm install
   npm start
   ```
-### This command will launch the application on http://localhost:3000/.
+### This command will launch the application on http://localhost:5173/.
 3. Build for Production (Optional):
 ```bash 
 npm run build
@@ -54,4 +54,5 @@ npm run build
 4. Animations: Animations are applied to task actions (like hover effects and scaling) using Tailwind CSS.
 5. Scalability: The app is designed to handle basic task management needs. For larger-scale use, a backend system might be required.
 
+![image alt](https://www.bangladeshtravelandtours.com/day-tours/nikli-haor-to-chatir-char-swamp-forest-by-boat-wetlands-exploration/)
 
