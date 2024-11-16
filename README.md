@@ -26,4 +26,10 @@ The **Task Manager** is a React-based web application designed to help users man
    ```bash
    git clone https://github.com/your-repository-url/task-manager.git
    cd task-manager
+   ```
+2. **Install Dependencies: **
+  ```bash
+  npm install
+  npm start
+  ```
 
