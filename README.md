@@ -62,3 +62,8 @@ Adding a Task
 
 Task List with Sorting and Priority
 
+### 🛠️ Technologies Used
+- **React JS:** JavaScript library for building user interfaces.
+- **Tailwind CSS:**  Utility-first CSS framework for styling.
+- **Local Storage:**  For task persistence.
+
