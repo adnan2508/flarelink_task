@@ -59,8 +59,11 @@ Home Screen
 ![image alt](https://github.com/adnan2508/flarelink_task/blob/main/Screenshot%202024-11-16%20234926.png?raw=true)
 
 Adding a Task
+![image alt](https://github.com/adnan2508/flarelink_task/blob/79e6ddc9105c32e08bd47a8ca02acec56e58e637/adding-task.png)
 
-Task List with Sorting and Priority
+Task Sorting based on Completion and Priority
+![image alt](https://github.com/adnan2508/flarelink_task/blob/79e6ddc9105c32e08bd47a8ca02acec56e58e637/Completion.png)
+![image alt](https://github.com/adnan2508/flarelink_task/blob/79e6ddc9105c32e08bd47a8ca02acec56e58e637/priority.png)
 
 ### 🛠️ Technologies Used
 - **React JS:** JavaScript library for building user interfaces.
